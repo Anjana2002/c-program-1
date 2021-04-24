@@ -6,12 +6,7 @@ void main()
   printf("\n**************\n");
   printf("Enter the five digit number: ");
   scanf("%d",&n);
-  n1=n;
-  while(n>0)
-  {
-    n=n/10;
-    count++;
-  }
+  n1=n
   if(count==5)
   {
     while(n1>0)
