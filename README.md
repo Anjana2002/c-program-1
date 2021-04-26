@@ -33,6 +33,7 @@
 10)***point.c:-***
              Given a point (x,y), write a program to find out if it lies on the X-axis, Y-axis or on the origin.<br />
             <br />
-             
+11)***prime.c:-***
+             Checking whether the number is prime or not.<br />             
 
              
