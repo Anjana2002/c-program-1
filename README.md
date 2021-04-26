@@ -13,8 +13,8 @@
             If a five-digit positive integer is entered through the keyboard, write a program to calculate the sum of its digits. Display an error message if the               number entered is not a valid five digit number.<br />
             <br />
 5)***wcf.c:-***  
-            Wind chill factor (wcf) is the felt air temperature on exposed skin due to wind. The wind chill temperature is always lower than the air temperature                 and is calculated as follows
-                         wcf = 35.74 + 0.6215t + (0.4275t - 35.75) * v0.16
+            Wind chill factor (wcf) is the felt air temperature on exposed skin due to wind. The wind chill temperature is always lower than the air temperature                 and is calculated as follows<br />
+                         wcf = 35.74 + 0.6215t + (0.4275t - 35.75) * v0.16<br />
             where v is wind velocity and t is the temperature. Write a program to receive the values of v and t and find the wind chill factor (wcf).<br />
             <br />
 6)***distance.c:-***
