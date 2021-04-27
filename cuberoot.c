@@ -8,10 +8,12 @@ void main()
   printf("Enter the number: ");
   scanf("%d",&n);
   c=cbrt(n);
+  
   if(c*c*c==n)
   {
     printf("%d is the cuberoot of %d",c,n);
   }
+  
   else
   {
     printf("%d is not a perfect cube",n);
