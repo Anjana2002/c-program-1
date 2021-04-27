@@ -16,5 +16,5 @@ void main()
   {
     printf("%d is not a perfect cube",n);
   }
-  printf("\n************************\n");
+  printf("************************\n\n");
 }
