@@ -41,3 +41,9 @@
              <br />
 13)***rupees.c:-***
              Consider a currency system in which there are notes of seven denominations, namely Re 1., Rs. 2, Rs. 5, Rs. 10, Rs. 50 and Rs. 100. If a sum of Rs. N is entered through the keyboard, write a program to compute the smallest number of notes that will combine to give Rs. N.<br />
+             <br />
+14)***circle.c:-***
+              Given the coordinates (x,y) of the centre of a circle and its radius, write a program that will determine whether a point lies inside the circle, on the circle or outside the circle.<br />
+              <br />
+
+              
