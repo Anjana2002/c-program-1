@@ -45,5 +45,7 @@
 14)***circle.c:-***
               Given the coordinates (x,y) of the centre of a circle and its radius, write a program that will determine whether a point lies inside the circle, on the circle or outside the circle.<br />
               <br />
+15)***price.c:-***
+              If the cost price and selling price of an item are input through the keyboard, write a program to determine whether the seller has made profit or incurred loss. Also determine how much profit he made or loss he incurred.<br />
+              <br />
 
-              
