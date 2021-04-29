@@ -48,7 +48,7 @@
 15)***price.c:-***
               If the cost price and selling price of an item are input through the keyboard, write a program to determine whether the seller has made profit or incurred loss. Also determine how much profit he made or loss he incurred.<br />
               <br />
-16)***fibo.c:-***
+16)***absolute.c:-***
               Write a program to find the absolute value of a number entered through the keyboard (Do not use math functions)<br />
               <br />
               
