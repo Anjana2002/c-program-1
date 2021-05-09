@@ -51,4 +51,38 @@
 16)***absolute.c:-***
               Write a program to find the absolute value of a number entered through the keyboard (Do not use math functions)<br />
               <br />
-              
+ 17)***fibo.c:-***
+           Write a program to print the fibonacci series.<br />
+            <br />
+18)***arm.c:-***
+           Write a program to check whether a number is armstrong or not.<br />
+           <br />
+19)***leap.c:-***
+           Write a program to check whether a year is leap or not.<br />
+           <br />
+20)***marks.c:-***
+           Write a program to accept marks in Physics, Chemistry and Mathematics(out of 100) of a student, display the percentage of marks obtained by the student and also display the class according to the following conditions. <br />
+           <br />
+ a)80% or above - Distinction.<br/>
+ b)60% or between 60% and 80% - First class.<br />
+ c)50% or between 50% and 60% - Second class.<br />
+ d)40% or between 40% and 50% - Third class.<br />
+ e)Below 40% - Failed. <br />
+<br />
+21)***perfect.c:-***
+              Write a program to print the first three perfect numbers.<br/>
+              <br />
+22)***eleven.c:-***
+              Write a program to print the following.<br />
+              <br />
+              a)The number divisible by 11 between two numbers.<br />
+              b)Their sum.<br />
+              c)their count.<br />
+<br />
+23)***fact.c:-***
+           Write a program to calculate the factorial of a number.<br />
+           <br />
+24)***even.c:-***
+           Check whether a number is odd or even.<br />
+           <br />
+   
