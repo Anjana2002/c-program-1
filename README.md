@@ -85,4 +85,6 @@
 24)***even.c:-***
            Check whether a number is odd or even.<br />
            <br />
-   
+25)***tri.c:-***
+             If three sides of a triangle are entered through the keyboard, write a program to check whether the triangle isosceles, equilateral or right angled                triangle.<br />
+             <br />
