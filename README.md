@@ -108,3 +108,8 @@ Morbidly Obese<br />
 >=40<br />
 <br />
 
+27)***multii.c:-***
+             Write a program to print the multiplication table (up to 20) of the number entered by the user.<br />
+           <br />
+
+              
