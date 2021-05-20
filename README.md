@@ -57,10 +57,13 @@
 18)***arm.c:-***
            Write a program to check whether a number is armstrong or not.<br />
            <br />
-19)***leap.c:-***
+19)***arm1.c:-***
+           Write a program to print out all armstrong numbers between 1 and 500.<br />
+	   <br />
+20)***leap.c:-***
            Write a program to check whether a year is leap or not.<br />
            <br />
-20)***marks.c:-***
+21)***marks.c:-***
            Write a program to accept marks in Physics, Chemistry and Mathematics(out of 100) of a student, display the percentage of marks obtained by the student and also display the class according to the following conditions. <br />
            <br />
  a)80% or above - Distinction.<br/>
@@ -69,26 +72,26 @@
  d)40% or between 40% and 50% - Third class.<br />
  e)Below 40% - Failed. <br />
 <br />
-21)***perfect.c:-***
+22)***perfect.c:-***
               Write a program to print the first three perfect numbers.<br/>
               <br />
-22)***eleven.c:-***
+23)***eleven.c:-***
               Write a program to print the following.<br />
               <br />
               a)The number divisible by 11 between two numbers.<br />
               b)Their sum.<br />
               c)their count.<br />
 <br />
-23)***fact.c:-***
+24)***fact.c:-***
            Write a program to calculate the factorial of a number.<br />
            <br />
-24)***even.c:-***
+25)***even.c:-***
            Check whether a number is odd or even.<br />
            <br />
-25)***tri.c:-***
+26)***tri.c:-***
              If three sides of a triangle are entered through the keyboard, write a program to check whether the triangle isosceles, equilateral or right angled                triangle.<br />
              <br />
-26)***bmi.c:-***
+27)***bmi.c:-***
              The body mass index (BMI) is defined as the ratio of the weight of a person in kilograms to the square of the height in meters. Write a program that receives weight and height, calculates  the BMI and reports the BMI category as per the following table.<br />
 	<br />
 BMI Category<br />
@@ -108,10 +111,10 @@ Morbidly Obese<br />
 >=40<br />
 <br />
 
-27)***multii.c:-***
+28)***multii.c:-***
              Write a program to print the multiplication table (up to 20) of the number entered by the user.<br />
            <br />
-28)***comb:-***
+29)***comb:-***
              Write a program to generate all combinations of 1, 2 and 3 using for loop.<br />
 	     <br />
 
