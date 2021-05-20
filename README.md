@@ -111,5 +111,8 @@ Morbidly Obese<br />
 27)***multii.c:-***
              Write a program to print the multiplication table (up to 20) of the number entered by the user.<br />
            <br />
+28)***comb:-***
+             Write a program to generate all combinations of 1, 2 and 3 using for loop.<br />
+	     <br />
 
               
