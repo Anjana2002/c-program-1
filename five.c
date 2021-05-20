@@ -2,11 +2,18 @@
 #include<stdio.h>
 void main()
 {
-  int n,sum=0,n1,rem=0;
+  int n,sum=0,n1,rem=0,l=0;
   printf("\n**************\n");
   printf("Enter the five digit number: ");
   scanf("%d",&n);
-  if(n<100000 && n>9999)
+  //counting how many digits
+  n1=n;
+  while(n1>0)
+  {
+    n1=n1/10;
+    l++;
+  }
+  if(l==5)
   {
     while(n>0)
     {
