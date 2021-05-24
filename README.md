@@ -117,5 +117,9 @@ Morbidly Obese<br />
 29)***comb:-***
              Write a program to generate all combinations of 1, 2 and 3 using for loop.<br />
 	     <br />
+30)***pop.c:-***
+              Population of a town today is 100000. The population has increased steadily at the rate of 10% per year for the last 10 years. Write a program to determine the population at the end of each year in the last decade.<br />
+	      <br />
+	      
 
               
