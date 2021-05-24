@@ -22,5 +22,4 @@ int main()
       printf("%02d:00 PM\n",i%12);
     }
   }
-
 }
