@@ -120,6 +120,8 @@ Morbidly Obese<br />
 30)***pop.c:-***
               Population of a town today is 100000. The population has increased steadily at the rate of 10% per year for the last 10 years. Write a program to determine the population at the end of each year in the last decade.<br />
 	      <br />
-	      
+31)***day.c:-***
+              Write a program to print 24 Hours of a date with suitable suffixes such as AM, PM, Noon, Midnight.<br />
+              <br />
 
               
