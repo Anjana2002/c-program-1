@@ -1,4 +1,4 @@
-#***QUESTIONS***
+ #***QUESTIONS***
 
 1)***area.c :-***
            If the lengths of three sides of a triangle are input through the keyboard, write a program to find the area of the triangle.<br />
@@ -124,7 +124,7 @@ Morbidly Obese<br />
               Write a program to print 24 Hours of a date with suitable suffixes such as AM, PM, Noon, Midnight.<br />
               <br />
 32)***output.c:-***
-             &nsbp;   Write a program to produce the following output.<br />
+             &nbsp;     Write a program to produce the following output.<br />
 			1<br />
 		2		3<br />
 	4		5		6<br />
