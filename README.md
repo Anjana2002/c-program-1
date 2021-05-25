@@ -125,9 +125,9 @@ Morbidly Obese<br />
               <br />
 32)***output.c:-***
                Write a program to produce the following output.<br />
-&nbsp;				1<br />
-&nbsp;				2		3<br />
-&nbsp;		4		5		6<br />
+&nbsp; &nbsp; &nbsp 1<br />
+&nbsp; &nbsp; 2		3<br />
+&nbsp; 4		5		6<br />
 7		8		9		10<br />
 <br />
 
