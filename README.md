@@ -94,21 +94,21 @@
 27)***bmi.c:-***
              The body mass index (BMI) is defined as the ratio of the weight of a person in kilograms to the square of the height in meters. Write a program that receives weight and height, calculates  the BMI and reports the BMI category as per the following table.<br />
 	<br />
-BMI Category<br />
-Starvation<br />
-< 15<br />
-Anorexic<br />
-15.1 to 17.5<br />
-Underweight<br />
-17.6 to 18.5<br />
-Ideal<br />
-18.6 to 24.9<br />
-Overweight<br />
-25 to 25.9<br />
-Obese<br />
-30 to 30.9<br />
-Morbidly Obese<br />
->=40<br />
+&nbsp; BMI Category<br />
+&nbsp; Starvation<br />
+&nbsp; < 15<br />
+&nbsp; Anorexic<br />
+&nbsp; 15.1 to 17.5<br />
+&nbsp; Underweight<br />
+&nbsp; 17.6 to 18.5<br />
+&nbsp; Ideal<br />
+&nbsp; 18.6 to 24.9<br />
+&nbsp; Overweight<br />
+&nbsp; 25 to 25.9<br />
+&nbsp; Obese<br />
+&nbsp; 30 to 30.9<br />
+&nbsp; Morbidly Obese<br />
+&nbsp; >=40<br />
 <br />
 
 28)***multii.c:-***
@@ -125,7 +125,7 @@ Morbidly Obese<br />
               <br />
 32)***output.c:-***
                Write a program to produce the following output.<br />
-&nbsp; &nbsp; &nbsp 1<br />
+&nbsp; &nbsp; &nbsp; 1<br />
 &nbsp; &nbsp; 2		3<br />
 &nbsp; 4		5		6<br />
 7		8		9		10<br />
