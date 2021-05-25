@@ -123,5 +123,22 @@ Morbidly Obese<br />
 31)***day.c:-***
               Write a program to print 24 Hours of a date with suitable suffixes such as AM, PM, Noon, Midnight.<br />
               <br />
+32)***output.c:-***
+              Write a program to produce the following output.<br />
+			1<br />
+		2		3<br />
+	4		5		6<br />
+7		8		9		10<br />
+<br />
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
               
