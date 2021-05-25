@@ -130,7 +130,9 @@
 &nbsp; 4		5		6<br />
 7		8		9		10<br />
 <br />
-
+33)***power.c:-***
+               Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of the other.<br />
+	       <br />
   
   
   
