@@ -133,7 +133,10 @@
 33)***power.c:-***
                Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of the other.<br />
 	       <br />
-  
+ 34)***overtime.c:-***
+                Write a program to calculate overtime pay of 10 employees. Overtime is paid at a rate of Rs. 12.00 per hour for every hour worked above 40 hours. Assume that employees do not work for a fractional part of an hour. <br />
+		<br />
+
   
   
   
