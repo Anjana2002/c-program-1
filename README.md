@@ -137,8 +137,11 @@
                 Write a program to calculate overtime pay of 10 employees. Overtime is paid at a rate of Rs. 12.00 per hour for every hour worked above 40 hours. Assume that employees do not work for a fractional part of an hour. <br />
 		<br />
 
-  
-  
+35)***series.c:-***
+               Write a program to add the first seven terms of the following series using for loop.<br />
+&nbsp; %nbsp; 11!+ 22!+33!+ ...<br />
+<br />
+
   
   
   
