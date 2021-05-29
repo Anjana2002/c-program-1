@@ -139,7 +139,7 @@
 
 35)***series.c:-***
                Write a program to add the first seven terms of the following series using for loop.<br />
-&nbsp; %nbsp; 11!+ 22!+33!+ ...<br />
+&nbsp; &nbsp; 11!+ 22!+33!+ ...<br />
 <br />
 
   
