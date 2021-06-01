@@ -123,30 +123,30 @@
 31)***day.c:-***
               Write a program to print 24 Hours of a date with suitable suffixes such as AM, PM, Noon, Midnight.<br />
               <br />
-32)***output.c:-***
+
+32)***power.c:-***
+               Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of the other.<br />
+	       <br />
+ 33)***overtime.c:-***
+                Write a program to calculate overtime pay of 10 employees. Overtime is paid at a rate of Rs. 12.00 per hour for every hour worked above 40 hours. Assume that employees do not work for a fractional part of an hour. <br />
+		<br />
+
+34)***series.c:-***
+               Write a program to add the first seven terms of the following series using for loop.<br />
+&nbsp; &nbsp; 11!+ 22!+33!+ ...<br />
+<br />
+
+ 35)***range.c:-***
+                 Write a program to find the range of a set of numbers entered through the keyboard. Range is the difference between the smallest and biggest number in the list.<br />
+                  <br />
+  
+  36)***output.c:-***
                Write a program to produce the following output.<br />
 &nbsp; &nbsp; &nbsp; 1<br />
 &nbsp; &nbsp; 2		3<br />
 &nbsp; 4		5		6<br />
 7		8		9		10<br />
 <br />
-33)***power.c:-***
-               Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of the other.<br />
-	       <br />
- 34)***overtime.c:-***
-                Write a program to calculate overtime pay of 10 employees. Overtime is paid at a rate of Rs. 12.00 per hour for every hour worked above 40 hours. Assume that employees do not work for a fractional part of an hour. <br />
-		<br />
-
-35)***series.c:-***
-               Write a program to add the first seven terms of the following series using for loop.<br />
-&nbsp; &nbsp; 11!+ 22!+33!+ ...<br />
-<br />
-
- 36)***range.c:-***
-                 Write a program to find the range of a set of numbers entered through the keyboard. Range is the difference between the smallest and biggest number in the list.<br />
-                  <br />
-  
-  
   
   
   
