@@ -148,7 +148,7 @@
 7		8		9		10<br />
 <br /> 
 37)***output1.c:-***
-                 Write a program to produce the following output. 
+                 Write a program to produce the following output. <br />
 A <br />
 A B<br />
 A B C <br />
