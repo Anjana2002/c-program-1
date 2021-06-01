@@ -151,9 +151,9 @@
 37)***output2.c:-***
                 Write a program to produce the following output.<br />
 & &nbsp; & &nbsp; & &nbsp; & &nbsp; & &nbsp; & &nbsp; & &nbsp;<br />
-&nbsp; & &nbsp;  & &nbsp; & &nbsp; & &nbsp; & &nbsp; <br />
-&nbsp; &nbsp;  & &nbsp;  & &nbsp; & &nbsp; <br />
-&nbsp; &nbsp;  &nbsp; &<br />
+&nbsp; &nbsp; & &nbsp;  & &nbsp; & &nbsp; & &nbsp; & &nbsp; <br />
+&nbsp; &nbsp; &nbsp;   & &nbsp;  & &nbsp; & &nbsp; <br />
+&nbsp; &nbsp;  &nbsp; &nbsp;  &<br />
 <br />
 
 
