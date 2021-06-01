@@ -146,9 +146,17 @@
 &nbsp; &nbsp; 2		3<br />
 &nbsp; 4		5		6<br />
 7		8		9		10<br />
+<br /> 
+37)***output1.c:-***
+                 Write a program to produce the following output. 
+A <br />
+A B<br />
+A B C <br />
+A B C D<br />
+A B C D E <br />
 <br />
 
-37)***output2.c:-***
+38)***output2.c:-***
                 Write a program to produce the following output.<br />
 & &nbsp; & &nbsp; & &nbsp; & &nbsp; & &nbsp; & &nbsp; & &nbsp;<br />
 &nbsp; &nbsp; & &nbsp;  & &nbsp; & &nbsp; & &nbsp; & &nbsp; <br />
