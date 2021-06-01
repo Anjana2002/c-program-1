@@ -147,7 +147,19 @@
 &nbsp; 4		5		6<br />
 7		8		9		10<br />
 <br />
-  
+
+37)***output2.c:-***
+                Write a program to produce the following output.<br />
+& &nbsp; & &nbsp; & &nbsp; & &nbsp; & &nbsp; & &nbsp; & &nbsp;<br />
+&nbsp; & &nbsp;  & &nbsp; & &nbsp; & &nbsp; & &nbsp; <br />
+&nbsp; &nbsp;  & &nbsp;  & &nbsp; & &nbsp; <br />
+&nbsp; &nbsp;  &nbsp; &<br />
+<br />
+
+
+
+
+
   
   
   
